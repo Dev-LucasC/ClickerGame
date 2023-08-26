@@ -1,0 +1,6 @@
+/* src/components/Cookie.css */
+.cookie-image {
+    width: 150px; /* Defina o tamanho desejado em pixels */
+    height: auto; /* A altura será ajustada automaticamente para manter a proporção */
+  }
+  
